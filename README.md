@@ -73,7 +73,7 @@
         This site serves as a small personal page to share a little about me and stay connected.
     </p>
     <div class="contact">
-        Contact me via email: <a href="mailto:phatvo[at]example.com">phatvo[at]example.com</a>
+        Contact me via email: <a href="mailto:phatvo[at]example.com">phatvonguyen2005@gmail.com</a>
     </div>
 </body>
 </html>
